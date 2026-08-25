@@ -1,0 +1,6 @@
+{
+  "name": "Tiếng Anh Lớp 7 - 30 Câu Đọc Hiểu Thang Điểm 10",
+  "description": "Ứng dụng luyện thi đọc hiểu Tiếng Anh lớp 7 gồm 30 câu hỏi chuẩn chương trình, chấm điểm thang 10 tự động, giải thích chi tiết và tra từ vựng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
